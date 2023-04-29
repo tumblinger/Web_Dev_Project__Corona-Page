@@ -1,6 +1,6 @@
 # Learning project with HTML and CSS
 
-## https://tumblinger.github.io/Corona-Page/
+## https://tumblinger.github.io/Web_Dev_Project__Corona-Page/
 ### Flexbox, BEM, no JS burger menu
 
 
